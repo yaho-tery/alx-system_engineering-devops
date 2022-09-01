@@ -1,1 +1,0 @@
-doing shell permissions
